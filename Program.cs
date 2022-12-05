@@ -7,7 +7,7 @@ void PrintArray(string[] array) // Массив строк
     int count = semiFinal.Length; // Переменная равна длинне массива
     for (int i = 0; i < count; i++) // Цикл прохода по всем элементам массива
     {
-        Console.WriteLine($"{array[i]} "); // Вывод без перехода на следующую строку
+        Console.WriteLine($"{array[i]} "); // Вывод в консоль
     }
     Console.WriteLine();
 }
