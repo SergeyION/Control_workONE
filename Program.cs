@@ -1,13 +1,14 @@
-﻿string[] array = new string[7];
+﻿string[] semiFinal = { "Netherlands", "Argentina", "France", "England", "Croatia", "Spain", "Brazil", "Switzerland" };
+// int[] arr = new int[] { 1, 3, 5, 7, 9 };
 
-
-array[0] = "qwe";
-array[1] = "rtyu";
-array[2] = "iopas";
-array[3] = "dfg";
-array[4] = "hjkl";
-array[5] = "zxc";
-array[6] = "vbnm";
-
-Console.WriteLine(array[7]);
-
+// Напишем метод который будет выводить массив на консоль
+void PrintArray(string[] array) // Массив строк
+{
+    int count = semiFinal.Length; // Переменная равна длинне массива
+    for (int i = 0; i < count; i++) // Цикл прохода по всем элементам массива
+    {
+        Console.WriteLine($"{array[i]} "); // Вывод без перехода на следующую строку
+    }
+    Console.WriteLine();
+}
+PrintArray(semiFinal); // проверка работы метода
