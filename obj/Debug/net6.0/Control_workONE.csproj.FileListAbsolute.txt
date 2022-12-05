@@ -1,0 +1,15 @@
+/Users/anni/Repositorian/Control work/Control_workONE/bin/Debug/net6.0/Control_workONE
+/Users/anni/Repositorian/Control work/Control_workONE/bin/Debug/net6.0/Control_workONE.deps.json
+/Users/anni/Repositorian/Control work/Control_workONE/bin/Debug/net6.0/Control_workONE.runtimeconfig.json
+/Users/anni/Repositorian/Control work/Control_workONE/bin/Debug/net6.0/Control_workONE.dll
+/Users/anni/Repositorian/Control work/Control_workONE/bin/Debug/net6.0/Control_workONE.pdb
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.csproj.AssemblyReference.cache
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.AssemblyInfoInputs.cache
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.AssemblyInfo.cs
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.csproj.CoreCompileInputs.cache
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.dll
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/refint/Control_workONE.dll
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.pdb
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/Control_workONE.genruntimeconfig.cache
+/Users/anni/Repositorian/Control work/Control_workONE/obj/Debug/net6.0/ref/Control_workONE.dll
